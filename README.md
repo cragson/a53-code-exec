@@ -18,7 +18,7 @@ Currently relies on DECI5S / sdbgp Protocol for read/write on a53 but can be don
 
 ## Requirements
 
-- PS5 FW 01.00 - 11.60 ( Test Only )
+- PS5 FW 01.00 - 11.40 ( 11.60+ Patched )
 - Kernel read/write exploit (provides `kernel_read4/8`, `kernel_write4/8`, etc.)
 - PS5 Payload SDK (`PS5_PAYLOAD_SDK` environment variable)
 
